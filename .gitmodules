@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rdst"]
 	path = rdst
-	url = https://github.com/TeodoroJMartinez/rdst
+	url = https://gitlab.com/tjma-community/public/templates/rdst/edit
